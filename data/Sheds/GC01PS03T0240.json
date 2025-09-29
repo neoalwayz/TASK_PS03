@@ -1,0 +1,114 @@
+{
+  "type": "FeatureCollection",
+  "name": "Sheds",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1534,
+                2198
+              ],
+              [
+                1534,
+                2169
+              ],
+              [
+                1562,
+                2169
+              ],
+              [
+                1562,
+                2198
+              ],
+              [
+                1534,
+                2198
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1403,
+                1157
+              ],
+              [
+                1403,
+                1144
+              ],
+              [
+                1437,
+                1144
+              ],
+              [
+                1437,
+                1157
+              ],
+              [
+                1403,
+                1157
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "Class Name": "Sheds"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                1577,
+                1190
+              ],
+              [
+                1577,
+                1169
+              ],
+              [
+                1598,
+                1170
+              ],
+              [
+                1597,
+                1190
+              ],
+              [
+                1577,
+                1190
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

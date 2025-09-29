@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "name": "Solar_Panel",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "Class Name": "Solar Panel"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                804,
+                589
+              ],
+              [
+                804,
+                389
+              ],
+              [
+                891,
+                389
+              ],
+              [
+                890,
+                589
+              ],
+              [
+                804,
+                589
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
